@@ -8,10 +8,10 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
 
 <b> Research Experience </b>
 <ul>
-  <ul> <b>Honors 110 Research Methods</b>
+  <b>Honors 110 Research Methods</b>
     <li>  Chosen from class of 30 to present research on the second hand clothing industry in africa at a colliquium.</li>
-  </ul> 
-  <ul> <b>GMU Center for the Study of Neuroeconomics</b>
+ <br>
+ <b>GMU Center for the Study of Neuroeconomics</b>
     <li>  Programed computer agents with various strategies in a simuated Economic enviorment.</li>
     <li>  Created and analyzed orignal data.</li>
     <li>  Assisted in the creation of a Python library for generating and solving decisions tree problems.</li>
