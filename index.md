@@ -18,6 +18,7 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
     <li>  Helped run and analyze experiment on trust and governance.</li>
   </ul> 
 
+
 ## Technical Skills
 <ul>
   <li>Research Experience</li>
@@ -42,8 +43,6 @@ I am intrested in strategey games, reading both non-fictions books as well as sc
 
 
 ## Download My Resume
-<ul>
 Click <a href="https://docs.google.com/gview?url=https://github.com/peteribanks/PeterBanksPortfolio/raw/master/Banks_ResumeCV%202019%20-%20PDF.pdf">here</a> to view my resume.
-</ul>
  
 https://peteribanks.github.io/PeterBanksPortfolio/
