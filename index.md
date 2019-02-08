@@ -1,30 +1,20 @@
-## Welcome to GitHub Pages
+## Peter Banks
 
-You can use the [editor on GitHub](https://github.com/peteribanks/PeterBanksPortfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I’m a junior at George Mason University (GMU) studying Economics and Math. I am planning to pursue a Ph.D. in Economics and a career in the public sector or acedamia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have demonstrated both an aptitude for academic rigor and initiative outside of the classroom. My course work includes multiple semesters in high level math, statistics, and economics. As noted on my attached resume, I also participated in a Summer 2018 internship at the GMU Center for the Study of Neuroeconomics that included award-winning student research and involved programing economic computer models in Python. I continued my work with the GMU Center for the Study of Neuroeconomics in the spring semester of 2019. 
 
-### Markdown
+## Research Experience 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    Research Assistant / Center for the Study of Neuroeconomics, George Mason University / Summer 2018
+    	Part of a team of undergraduate research assistants working under Dr. Kevin McCabe. 
+    	Coded computer agents to analyze risk preference in decision making. Generated, structured, and cleaned data for statistical analysis. 
+    	Presented award-winning findings at undergraduate summer research symposium. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
