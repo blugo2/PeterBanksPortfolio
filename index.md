@@ -9,6 +9,6 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
 ## Link
 
 
-https://docs.google.com/gview?url= https://github.com/peteribanks/PeterBanksPortfolio/raw/master/Banks_ResumeCV%202019%20-%20PDF.pdf &embedded=true
+https://docs.google.com/gview?url=https://github.com/peteribanks/PeterBanksPortfolio/raw/master/Banks_ResumeCV%202019%20-%20PDF.pdf 
 
 https://peteribanks.github.io/PeterBanksPortfolio/
