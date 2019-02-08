@@ -6,7 +6,7 @@ I’m a junior at <b>George Mason University (GMU)</b> studying Economics and Ma
 
 I have demonstrated both an aptitude for academic rigor and initiative outside of the classroom. My course work includes multiple semesters in high level math, statistics, and economics. As noted on my attached resume, I also participated in a Summer 2018 internship at the GMU Center for the Study of Neuroeconomics that included award-winning student research and involved programing economic computer models in Python. I continued my work with the GMU Center for the Study of Neuroeconomics in the spring semester of 2019. 
 
-## Research Experience 
+<b> Research Experience </b>
 <ul>
   <ul> <b>Honors 110 Research Methods</b>
     <li>  Chosen from class of 30 to present research on the second hand clothing industry in africa at a colliquium.</li>
@@ -38,6 +38,7 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
 
 <br> <b> Personal Information </b>
 <br> <img src="https://github.com/peteribanks/PeterBanksPortfolio/blob/master/MEZ_1524.jpg" alt="HTML5 Icon" width="430" height="300">
+<br> 
 
 <br> I am intrested in strategey games, reading both non-fictions books as well as science fiction, and spending as much time in nature as my schedule will allow. 
 
