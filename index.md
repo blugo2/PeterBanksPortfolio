@@ -16,10 +16,12 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
   <li>Python</li>
   <li>R</li>
   <liExcel</li>
-<ul>
+</ul>
 
 
 ## My Resume
-Click <a href="https://docs.google.com/gview?url=https://github.com/peteribanks/PeterBanksPortfolio/raw/master/Banks_ResumeCV%202019%20-%20PDF.pdf">here</a> to view my resume.
+<ul>
+Click<a href="https://docs.google.com/gview?url=https://github.com/peteribanks/PeterBanksPortfolio/raw/master/Banks_ResumeCV%202019%20-%20PDF.pdf">here</a> to view my resume.
+</ul>
  
 https://peteribanks.github.io/PeterBanksPortfolio/
