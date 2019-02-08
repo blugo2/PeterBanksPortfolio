@@ -25,7 +25,7 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
   <li>Data and Statistical Analysis</li>
   <li>Python</li>
   <li>R</li>
-  <liExcel</li>
+  <li>Excel</li>
 </ul>
 
 ## Soft Skills
