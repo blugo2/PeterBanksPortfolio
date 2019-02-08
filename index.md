@@ -1,4 +1,7 @@
-## Peter Banks
+
+
+## Peter Banks 
+<img src="https://github.com/peteribanks/PeterBanksPortfolio/raw/master/MEZ_1524.jpg" width="405" height="279" style="float:right;margin:0 20px 20px 0;">
 
 I’m a junior at George Mason University (GMU) studying Economics and Math. I am planning to pursue a Ph.D. in Economics and a career in the public sector or acedamia.
 
@@ -7,6 +10,7 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
 ## Research Experience 
 
 ## Link
+
 
 
 https://docs.google.com/gview?url=https://github.com/peteribanks/PeterBanksPortfolio/raw/master/Banks_ResumeCV%202019%20-%20PDF.pdf 
