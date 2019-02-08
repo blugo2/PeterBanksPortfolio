@@ -6,22 +6,3 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
 
 ## Research Experience 
 
-    Research Assistant / Center for the Study of Neuroeconomics, George Mason University / Summer 2018
-    	Part of a team of undergraduate research assistants working under Dr. Kevin McCabe. 
-    	Coded computer agents to analyze risk preference in decision making. Generated, structured, and cleaned data for statistical analysis. 
-    	Presented award-winning findings at undergraduate summer research symposium. 
-
-
-
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/peteribanks/PeterBanksPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
