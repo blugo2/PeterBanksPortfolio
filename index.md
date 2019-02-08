@@ -17,7 +17,6 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
     <li>  Assisted in the creation of a Python library for generating and solving decisions tree problems.</li>
     <li>  Helped run and analyze experiment on trust and governance.</li>
   </ul> 
-</u>
 
 ## Technical Skills
 <ul>
