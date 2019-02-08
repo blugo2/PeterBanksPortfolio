@@ -2,20 +2,20 @@
 
 # Peter Banks 
 
-I’m a junior at George Mason University (GMU) studying Economics and Math. I am planning to pursue a Ph.D. in Economics and a career in the public sector or acedamia.
+I’m a junior at <b>George Mason University (GMU)</b> studying Economics and Math. I am planning to pursue a Ph.D. in Economics and a career in the public sector or acedamia.
 
 I have demonstrated both an aptitude for academic rigor and initiative outside of the classroom. My course work includes multiple semesters in high level math, statistics, and economics. As noted on my attached resume, I also participated in a Summer 2018 internship at the GMU Center for the Study of Neuroeconomics that included award-winning student research and involved programing economic computer models in Python. I continued my work with the GMU Center for the Study of Neuroeconomics in the spring semester of 2019. 
 
 ## Research Experience 
 <ul>
-  <ul> <br>Honors 110 Research Methods</br>
-    <li>Chosen from class of 30 to present research on the second hand clothing industry in africa at a colliquium.</li>
+  <ul> <b>Honors 110 Research Methods</b>
+    <li>  Chosen from class of 30 to present research on the second hand clothing industry in africa at a colliquium.</li>
   </ul> 
-  <ul> <br>GMU Center for the Study of Neuroeconomics</br>
-    <li>Programed computer agents with various strategies in a simuated Economic enviorment.</li>
-    <li>Created and analyzed orignal data.</li>
-    <li>Assisted in the creation of a Python library for generating and solving decisions tree problems.</li>
-    <li>Helped run and analyze experiment on trust and governance.</li>
+  <ul> <b>GMU Center for the Study of Neuroeconomics</b>
+    <li>  Programed computer agents with various strategies in a simuated Economic enviorment.</li>
+    <li>  Created and analyzed orignal data.</li>
+    <li>  Assisted in the creation of a Python library for generating and solving decisions tree problems.</li>
+    <li>  Helped run and analyze experiment on trust and governance.</li>
   </ul> 
 </u>
 
