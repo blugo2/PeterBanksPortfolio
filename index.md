@@ -19,7 +19,7 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
   </ul> 
 
 
-## Technical Skills
+<b> Technical Skills </b>
 <ul>
   <li>Research Experience</li>
   <li>Data and Statistical Analysis</li>
@@ -28,7 +28,7 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
   <li>Excel</li>
 </ul>
 
-## Soft Skills
+<b> Soft Skills </b> 
 <ul>
   <li>Leadership</li>
   <li>Public Speaking</li>
@@ -36,13 +36,13 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
 </ul>
 
 
-## Personal Information 
-<img src="https://github.com/peteribanks/PeterBanksPortfolio/blob/master/MEZ_1524.jpg" alt="HTML5 Icon" width="430" height="300">
+<br> <b> Personal Information </b>
+<br> <img src="https://github.com/peteribanks/PeterBanksPortfolio/blob/master/MEZ_1524.jpg" alt="HTML5 Icon" width="430" height="300">
 
-I am intrested in strategey games, reading both non-fictions books as well as science fiction, and spending as much time in nature as my schedule will allow. 
+<br> I am intrested in strategey games, reading both non-fictions books as well as science fiction, and spending as much time in nature as my schedule will allow. 
 
 
-## Download My Resume
+<br> <b>Download My Resume</b>
 Click <a href="https://docs.google.com/gview?url=https://github.com/peteribanks/PeterBanksPortfolio/raw/master/Banks_ResumeCV%202019%20-%20PDF.pdf">here</a> to view my resume.
  
 https://peteribanks.github.io/PeterBanksPortfolio/
