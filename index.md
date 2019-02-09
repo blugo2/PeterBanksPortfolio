@@ -44,6 +44,6 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
 
 
 <br> <b>Download My Resume</b>
-Click <a href="https://docs.google.com/gview?url=https://github.com/peteribanks/PeterBanksPortfolio/raw/master/Banks_ResumeCV%202019%20-%20PDF.pdf">here</a> to view my resume.
+<br> Click <a href="https://docs.google.com/gview?url=https://github.com/peteribanks/PeterBanksPortfolio/raw/master/Banks_ResumeCV%202019%20-%20PDF.pdf">here</a> to view my resume.
  
 https://peteribanks.github.io/PeterBanksPortfolio/
