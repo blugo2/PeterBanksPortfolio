@@ -9,11 +9,11 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
 <b> Research Experience </b>
 <ul>
   <b>Honors 110 Research Methods</b>
-    <li>  Chosen from class of 30 to present research on the second hand clothing industry in africa at a colliquium.</li>
+    <li>  Chosen from class of 30 to present research on the second hand clothing industry in Africa at a colloquium.</li>
  <br>
  <b>GMU Center for the Study of Neuroeconomics</b>
-    <li>  Programed computer agents with various strategies in a simuated Economic enviorment.</li>
-    <li>  Created and analyzed orignal data.</li>
+    <li>  Programmed computer agents with various strategies in a simulated Economic enviroment.</li>
+    <li>  Created and analyzed original data.</li>
     <li>  Assisted in the creation of a Python library for generating and solving decisions tree problems.</li>
     <li>  Helped run and analyze experiment on trust and governance.</li>
   </ul> 
@@ -40,7 +40,7 @@ I have demonstrated both an aptitude for academic rigor and initiative outside o
 <br> <img src="https://github.com/peteribanks/PeterBanksPortfolio/blob/master/MEZ_1524.jpg" alt="HTML5 Icon" width="430" height="300">
 <br> 
 
-<br> I am intrested in strategey games, reading both non-fictions books as well as science fiction, and spending as much time in nature as my schedule will allow. 
+<br> I am interested in strategy games, reading both non-fictions books as well as science fiction, and spending as much time in nature as my schedule will allow. 
 
 
 <br> <b>Download My Resume</b>
